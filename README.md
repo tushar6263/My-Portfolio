@@ -4,7 +4,8 @@ Welcome to my personal portfolio repository! 🎉 This portfolio showcases my sk
 
 ## 🌐 Live Demo
 
-You can view the live version of my portfolio here: [My Portfolio](https://tusharpatelportfolio.vercel.app/)
+You can view the live version of my portfolio here: [My Portfolio](https://portfolio-tusharpatel.netlify.app/)
+
 
 ---
 
@@ -13,10 +14,7 @@ You can view the live version of my portfolio here: [My Portfolio](https://tusha
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap** / **Tailwind CSS** (if applicable)
--
-
----
+- **Bootstrap** / **Tailwind CSS** 
 
 ## 📂 Project Structure
 
