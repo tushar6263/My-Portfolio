@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! 🎉 This portfolio showcases my sk
 
 ## 🌐 Live Demo
 
-You can view the live version of my portfolio here: [My Portfolio](https://portfolio-tusharpatel.netlify.app/)
+You can view the live version of my portfolio here: [My Portfolio](https://tushar6263.github.io/My-Portfolio/)
 
 
 ---
